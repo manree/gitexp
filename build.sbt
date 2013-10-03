@@ -1,5 +1,5 @@
 
-name := "HeidiGitHub"
+name := """HeidiGitHub"""
 
 version := "0.0"
 
